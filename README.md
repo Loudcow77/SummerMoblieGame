@@ -4,7 +4,7 @@
 本プロジェクトは、Androidモバイルデバイス固有の入力方式に特化した技術実験として制作しました。タッチスクリーンのボタンや仮想スティックではなく、端末のジャイロスコープ・加速度センサーを利用した傾きによる操作でゲームプレイを実現することを目的としています。
 ハードウェアセンサーからの生データの読み取り・ノイズ除去・スムージング処理を経て、物理的な傾きを快適で予測しやすいゲーム内移動に変換するという、入力プログラミング・物理演算・ゲームフィールの交点に位置する課題に取り組みました。
 
-![altgif]([https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWllc2p4M282ZDRxMjV3bDZhNDZ5bHNoaDB0N3Mya2FpemE0c3l4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RwLIMdIGneT8hLtveP/giphy.gif](https://giphy.com/gifs/RwLIMdIGneT8hLtveP))
+![altgif](![giphy](https://github.com/user-attachments/assets/9f9abbe4-30fd-4420-8103-0f576702e5d9))
 
 ## 主な技術的取り組み
 **ジャイロスコープ・加速度センサー入力**
